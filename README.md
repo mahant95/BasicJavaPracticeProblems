@@ -42,5 +42,19 @@ Since the equation is x*x, hence there are 2 roots. The 2 roots of the equation 
 Root 1 of x = (-b + sqrt(delta))/(2*a)
 Root 2 of x = (-b - sqrt(delta))/(2*a)
 Take a, b, and c as input values to find the roots of x.
-4. Write a program Distance.java that takes two integer command-line arguments x and y and prints the Euclidean distance from the point (x, y) to the origin (0, 0). The formulae to calculate distance = sqrt(x*x + y*y). Use Math.power function
+4. Write a program Distance.java that takes two integer command-line arguments x and y and prints the Euclidean distance from the point (x, y) to the origin (0, 0). The formulae to calculate distance = sqrt(x*x + y*y). Use Math.power function, 
+
+Day3 Practice Problems 
+
+1) Java Program to print the elements of an array
+2) Java Program to find the frequency of each element in the array
+3) Java Program to print the largest element in an array
+4) Java Program to print the smallest element in an array
+5) Java Program to print the elements of an array present on an even position
+6) Java Program to print the elements of an array in reverse order
+7) Java Program to print the elements of an array present on odd position
+8) Java Program to print the duplicate elements of an array
+9) Java Program to sort the elements of an array in ascending order  
+10) Find 2nd Largest Number in an Array
+
 
